@@ -8,16 +8,19 @@
 ## 🌐 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/haricharanbonam" target="_blank">
+  <a href="https://leetcode.com/u/haricharanbonam" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" height="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/haricharanbonam" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/haricharanbonam" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/haricharan2507" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
   </a>
 </p>
+
 
 
 ---
