@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Hari Charan!
 
-🎓 I'm a 2nd-year BTech CSE student at SRKR Engineering College  
+🎓 I'm a 3rd-year BTech CSE student at SRKR Engineering College  
 💻 Passionate about full-stack web development and AI  
 🌱 Currently building: AI-Powered Online Exam Proctoring System  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR-ID)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hari-charan-bonam-02a432291/)
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -13,14 +13,12 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ## 📊 GitHub Stats
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=haricharanbonam&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=haricharanbonam)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧠 Top Projects
-- 🎯 [AI-Powered Exam Platform](https://github.com/YOUR_USERNAME/secure-exam-ai)
-- 💻 [Carbon Calculator for Households](https://github.com/YOUR_USERNAME/carbon-footprint)
 
 ## 🦾 Fun
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
