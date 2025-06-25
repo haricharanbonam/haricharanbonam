@@ -37,7 +37,7 @@
 ## 🧠 Top Projects
 
 - 📝 [Blog Platform](https://github.com/haricharanbonam/blog) — A modern long-form content blogging app with cover image, markdown support, and clean design.  
-<!-- Add more later as you build -->
+- 📊 [Salary Prediction (Dec 2024)](https://github.com/Nithin789b/salaryprediction) — An ML project for predicting employee salaries based on key insights.
 
 ---
 
@@ -56,6 +56,7 @@
 
 ## 📈 Contribution Streak
 
+<!-- Empty but placeholder for later -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=haricharanbonam&theme=radical&hide_border=true)
 
 ---
@@ -68,10 +69,21 @@
 
 ---
 
+## 🏅 Achievements
+
+- 🎓 Consistently achieving a **strong GPA** (currently **9.26** 🎯)  
+- 🌟 **4⭐ in C, Java, Python, SQL** on HackerRank  
+- 💡 Solved **250+ problems on LeetCode**  
+- 🔥 Solved **600+ problems on CodeChef**
+
+---
+
 ## 🦾 Fun & Analytics
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=haricharanbonam.haricharanbonam)
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID/project-name.svg)](https://wakatime.com/@YOUR_USERNAME)
+
+<!-- Wakatime (optional, currently not active) -->
+<!-- [![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID/project-name.svg)](https://wakatime.com/@YOUR_USERNAME) -->
 
 ---
 
