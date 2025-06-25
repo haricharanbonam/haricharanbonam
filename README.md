@@ -19,7 +19,6 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
 **Backend & Database**  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -32,7 +31,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ---
 
@@ -81,7 +79,6 @@
 
 - 🌐 [Portfolio (coming soon)]()
 - 📫 [LinkedIn](https://www.linkedin.com/in/hari-charan-bonam-02a432291/)
-- 🐦 Twitter (optional)
-- 💼 Resume (you can add Google Drive or portfolio link here)
+- 💼 Resume (https://drive.google.com/file/d/1smiFC2mpENTcwM61AKuf0KkQPWCQhZHY/view?usp=sharing)
 
 ---
