@@ -58,6 +58,12 @@
 
 - 📝 [Blog Platform](https://github.com/haricharanbonam/blog) — A modern long-form content blogging app with cover image, markdown support, and clean design.  
 - 📊 [Salary Prediction (Dec 2024)](https://github.com/Nithin789b/salaryprediction) — An ML project for predicting employee salaries based on key insights.
+- ✍ [Exam Portal](https://github.com/haricharanbonam/exam) - Online test platform with login, timed exams, test creation, and live webcam-based face and object detection.
+
+
+
+
+Ask ChatGPT
 
 ---
 
