@@ -8,7 +8,7 @@
 ## 🌐 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/haricharanbonam" target="_blank" style="margin-right: 20px;">
+  <a href="https://leetcode.com/u/haricharanbonam/" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
