@@ -74,7 +74,6 @@
 
 
 
-Ask ChatGPT
 
 ---
 
