@@ -109,7 +109,7 @@
 
 - 🎓 Consistently achieving a **strong GPA** (currently **9.26** 🎯)  
 - 🌟 **4⭐ in C, Java, Python, SQL** on HackerRank  
-- 💡 Solved **250+ problems on LeetCode**  
+- 💡 Solved **280+ problems on LeetCode**  
 - 🔥 Solved **600+ problems on CodeChef**
 
 ---
