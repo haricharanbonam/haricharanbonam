@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hari Charan !
+# 👋 Hi, I'm Hari Charan 
 
 🎓 I'm a 3rd-year BTech CSE student at **SRKR Engineering College**  
 💻 Passionate about **full-stack web development**, **AI**, and building real-world impactful projects  
