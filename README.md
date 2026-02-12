@@ -125,7 +125,7 @@
 
 ## 💬 Let's Connect!
 
-- 🌐 [Portfolio (coming soon)]()
+- 🌐 [Portfolio](haricharanbonam.tech)
 - 📫 [LinkedIn](https://www.linkedin.com/in/hari-charan-bonam-02a432291/)
 - 💼 [Resume](https://drive.google.com/file/d/1smiFC2mpENTcwM61AKuf0KkQPWCQhZHY/view?usp=sharing)
 
